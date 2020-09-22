@@ -1,1 +1,3 @@
-# Python for Everybody (Getting started with Python) - University of Michigan
+# Coursera - Programming for Everybody (Getting Started with Python)
+
+this contains all the asssignments for "Programming for Everybody (Getting Started with Python)" on Coursera by the University of Michigan.
